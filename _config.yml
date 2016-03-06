@@ -1,0 +1,14 @@
+layout_spectrum: 0.2978864
+typography_spectrum: 0.6484972
+color:
+  saturation: 0.5493458
+  lightness: 0.7611788
+  brandStrength: 0.6264806
+  rhythmicContrast: 0.08344916
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Mercadillo
