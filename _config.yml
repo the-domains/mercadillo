@@ -1,8 +1,5 @@
-layout_spectrum: 0.2978864
-typography_spectrum: 0.6484972
 color:
   saturation: 0.5493458
-  lightness: 0.7611788
   brandStrength: 0.6264806
   rhythmicContrast: 0.08344916
   brandColors:
@@ -11,4 +8,19 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+  lightness: 0.7611788
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.2978864
+typography_spectrum: 0.6484972
 name: Mercadillo
